@@ -1,0 +1,65 @@
+*{
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+    font-family: sans-serif;
+}
+
+body{
+    background-color: rgb(241, 139, 139);
+
+}
+
+.titulo{
+    text-align: center;
+}
+
+h1{
+    color: black;
+    transition: .5s;
+    font-size: 60px;
+    padding: 20px;
+}
+
+h1:hover{
+    color: white;
+    transition: .4s;
+    padding: 25px;
+}
+
+
+p{
+    font-size: 40px;
+    padding: 20px;
+}
+
+.link{
+    text-align: center;
+}
+
+h2{
+    font-size: 60px;
+    padding: 20px;
+    transition: .5s;
+}
+
+h2:hover{
+    color: white;
+    transition: .5s;
+}
+
+.enlace{
+    text-align: center;
+    font-size: 40px;
+}
+
+a{
+    color: white;
+    padding: 10px;
+    transition: .5s;
+}
+
+a:hover{
+    color: aqua;
+    padding: 15px;
+}
